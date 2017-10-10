@@ -1,0 +1,2 @@
+# An example controller showing a sample home page
+POST    /			    controllers.HomeController.testGzip
